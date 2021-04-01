@@ -1,0 +1,14 @@
+.hello {
+  display: flex;
+}
+
+.inner_hello {
+  font-size: 80px;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+}
+
+span {
+  color: red;
+}
